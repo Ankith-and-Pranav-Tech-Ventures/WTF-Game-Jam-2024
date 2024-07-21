@@ -23,7 +23,7 @@
 
 1. Download the zip file from [itch.io](https://prajwal246800.itch.io/infinite-castle).
 2. Extract the contents of the zip file to a desired location on your computer.
-3. Get The Code On [GITHUB]()
+3. Get The Code On [GITHUB](https://github.com/Ankith-and-Pranav-Tech-Ventures/WTF-Game-Jam-2024)
 
 ### Controls 
 
